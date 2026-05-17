@@ -1,4 +1,47 @@
 # 🌐📚 Multi PDF RAG Chatbot Built on Web Scraping 🤖
+<div align="center">
+
+# 🚀 AI Nexus : Multi PDF RAG Chatbot 🌐🤖
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=250&section=header&text=Multi%20PDF%20RAG%20Chatbot&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20Scraping%20%7C%20LangChain%20%7C%20OpenAI%20%7C%20FAISS&descAlignY=58&descSize=20"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🧠 Intelligent AI Knowledge Retrieval System
+
+<img src="https://skillicons.dev/icons?i=python,flask,html,css,javascript,git,github,vscode" />
+
+<br><br>
+
+<img src="https://img.shields.io/github/stars/Biswajitpa/WebScapingRAGCHAT?style=for-the-badge&color=yellow">
+<img src="https://img.shields.io/github/forks/Biswajitpa/WebScapingRAGCHAT?style=for-the-badge&color=blue">
+<img src="https://img.shields.io/github/license/Biswajitpa/WebScapingRAGCHAT?style=for-the-badge&color=green">
+<img src="https://img.shields.io/badge/OpenAI-GPT-red?style=for-the-badge">
+<img src="https://img.shields.io/badge/RAG-AI%20Chatbot-purple?style=for-the-badge">
+
+</div>
+
+---
+
+``ascii
+ ███╗   ███╗██╗   ██╗██╗  ████████╗██╗
+ ████╗ ████║██║   ██║██║  ╚══██╔══╝██║
+ ██╔████╔██║██║   ██║██║     ██║   ██║
+ ██║╚██╔╝██║██║   ██║██║     ██║   ██║
+ ██║ ╚═╝ ██║╚██████╔╝███████╗██║   ██║
+ ╚═╝     ╚═╝ ╚═════╝ ╚══════╝╚═╝   ╚═╝
+
+██████╗ ██████╗ ███████╗
+██╔══██╗██╔══██╗██╔════╝
+██████╔╝██║  ██║█████╗
+██╔══██╗██║  ██║██╔══╝
+██║  ██║██████╔╝██║
+╚═╝  ╚═╝╚═════╝ ╚═╝
+
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge&logo=python)
 ![Flask](https://img.shields.io/badge/Flask-WebApp-black?style=for-the-badge&logo=flask)
