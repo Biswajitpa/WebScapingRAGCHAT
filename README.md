@@ -3,7 +3,7 @@
 
 # 🚀 AI Nexus : Multi PDF RAG Chatbot 🌐🤖
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=250&section=header&text=Multi%20PDF%20RAG%20Chatbot&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20Scraping%20%7C%20LangChain%20%7C%20OpenAI%20%7C%20FAISS&descAlignY=58&descSize=20"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f1c2c,50:928DAB,100:00c6ff&height=250&section=header&text=Multi%20PDF%20RAG%20Chatbot&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20Scraping%20%7C%20LangChain%20%7C%20OpenAI%20%7C%20FAISS&descAlignY=58&descSize=20"/>
 
 </div>
 
