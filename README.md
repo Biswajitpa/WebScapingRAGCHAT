@@ -1,5 +1,28 @@
 # Multi PDF Rag Chatbot built on Web Scraping
 ### 🚀 Intelligent AI Chatbot using Web Scraping + RAG + LangChain + OpenAI
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&color=00F7FF&center=true&vCenter=true&width=1000&lines=🌐+Multi+PDF+RAG+Chatbot+Built+on+Web+Scraping+🤖;🧠+AI-Powered+Document+Intelligence+System;📚+Semantic+Search+%7C+RAG+%7C+OpenAI+%7C+LangChain;⚡+Smart+PDF+Question+Answering+Assistant" />
+</p>
+
+---
+
+<div align="center">
+
+# 🌐📚 Multi PDF RAG Chatbot Built on Web Scraping 🤖
+
+### 🚀 AI-Powered Intelligent Document Retrieval & Semantic Search System
+
+<img src="https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge&logo=python" />
+<img src="https://img.shields.io/badge/Flask-WebApp-black?style=for-the-badge&logo=flask" />
+<img src="https://img.shields.io/badge/LangChain-AI-green?style=for-the-badge" />
+<img src="https://img.shields.io/badge/OpenAI-LLM-orange?style=for-the-badge" />
+<img src="https://img.shields.io/badge/FAISS-VectorDB-red?style=for-the-badge" />
+<img src="https://img.shields.io/badge/RAG-Chatbot-purple?style=for-the-badge" />
+
+</div>
+
+
+
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge&logo=python)
 ![Flask](https://img.shields.io/badge/Flask-WebApp-black?style=for-the-badge&logo=flask)
