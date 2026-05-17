@@ -1,4 +1,14 @@
 # Multi PDF Rag Chatbot built on Web Scraping
+### 🚀 Intelligent AI Chatbot using Web Scraping + RAG + LangChain + OpenAI
+
+![Python](https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge&logo=python)
+![Flask](https://img.shields.io/badge/Flask-WebApp-black?style=for-the-badge&logo=flask)
+![LangChain](https://img.shields.io/badge/LangChain-AI-green?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-LLM-orange?style=for-the-badge)
+![FAISS](https://img.shields.io/badge/FAISS-VectorDB-red?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-purple?style=for-the-badge)
+
+---
 
 ## Problem Statement
 The growth of e-commerce platforms has led to a vast array of products and services, making it difficult for customers to find relevant information quickly. Traditional search mechanisms often fall short in delivering personalized and specific responses to customer queries. This causes frustration and longer response times, leading to potential loss in sales or customer dissatisfaction.
