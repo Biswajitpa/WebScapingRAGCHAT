@@ -6,7 +6,7 @@
 ![LangChain](https://img.shields.io/badge/LangChain-AI-green?style=for-the-badge)
 ![OpenAI](https://img.shields.io/badge/OpenAI-LLM-orange?style=for-the-badge)
 ![FAISS](https://img.shields.io/badge/FAISS-VectorDB-red?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-purple?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-Chatbot-purple?style=for-the-badge)
 
 ---
 
